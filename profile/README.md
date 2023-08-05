@@ -1,4 +1,4 @@
-![Critical Chicken logo](https://github.com/CriticalChicken/.github/assets/35422415/f0ecf587-d985-41cb-a15f-8fc7c172d994)
+![Critical Chicken logo](https://github.com/CriticalChicken/.github/assets/35422415/07fae635-a29d-475d-b179-b5949dae7ec5)
 
 ## Video game news, features, and reviews #ForTheGaymers
 
