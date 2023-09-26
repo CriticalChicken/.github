@@ -12,4 +12,4 @@
 - Mastodon: [@CriticalChicken@mastodon.world](https://mastodon.world/@CriticalChicken)
 - Tumblr: [criticalchicken.tumblr.com](https://criticalchicken.tumblr.com/)
 
-[![Produced by Human, Not by AI](https://github.com/CriticalChicken/.github/assets/35422415/302eee1b-11ff-4239-8e68-7111ff0d50c6)](https://notbyai.fyi)
+<picture><a href="https://notbyai.fyi" target="_blank" rel="external help"><img alt="Various icons used in our comments section" src="https://github.com/CriticalChicken/.github/assets/35422415/302eee1b-11ff-4239-8e68-7111ff0d50c6"></a></picture>
