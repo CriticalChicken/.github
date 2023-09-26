@@ -1,9 +1,9 @@
-![Critical Chicken logo](https://github.com/CriticalChicken/.github/assets/35422415/07fae635-a29d-475d-b179-b5949dae7ec5)
+![Critical Chicken](https://github.com/CriticalChicken/.github/assets/35422415/f9117177-fd13-43c5-a7a7-d3d1291edcb6)
 
 ## Video game news, features, and reviews #ForTheGaymers
 
-- Website: [www.criticalchicken.com](https://www.criticalchicken.com)
-- V2 theme: [github.com/CriticalChicken/V2](https://github.com/CriticalChicken/V2)  
+- **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
+- **V2 theme: [github.com/CriticalChicken/V2](https://github.com/CriticalChicken/V2)**
 - BlueSky: [criticalchicken.bsky.social](https://bsky.app/profile/criticalchicken.bsky.social)
 - Discord: [discord.gg/XtGUe4vaVm](https://discord.gg/XtGUe4vaVm)
 - Email: [office@criticalchicken.com](mailto:office@criticalchicken.com)
