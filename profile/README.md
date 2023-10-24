@@ -4,7 +4,7 @@
 
 - **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
 - **V2 theme: [github.com/CriticalChicken/V2](https://github.com/CriticalChicken/V2)**
-- BlueSky: [@criticalchicken.com](https://bsky.app/profile/criticalchicken.com)
+- Bluesky: [@criticalchicken.com](https://bsky.app/profile/criticalchicken.com)
 - Discord: [discord.gg/XtGUe4vaVm](https://discord.gg/XtGUe4vaVm)
 - Email: [office@criticalchicken.com](mailto:office@criticalchicken.com)
 - Instagram: [@criticalchicken](https://www.instagram.com/criticalchicken)
