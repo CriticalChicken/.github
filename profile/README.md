@@ -2,8 +2,11 @@
 
 ## Video game news, features, and reviews #ForTheGaymers
 
+> [!NOTE]
+> <b>Looking for our &ldquo;V2&rdquo; theme?</b> We&rsquo;ve hit a few snags and pivoted to developing a brand new theme! Instead of V2.1, we&rsquo;re jumping all the way to version 3.0 &ndash; check out our new [Tri](https://github.com/CriticalChicken/Tri) theme repository to see what&rsquo;s brewing.
+
 - **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
-- **V2 theme: [github.com/CriticalChicken/V2](https://github.com/CriticalChicken/V2)**
+- **Tri theme: [github.com/CriticalChicken/Tri](https://github.com/CriticalChicken/Tri)**
 - Bluesky: [@criticalchicken.com](https://bsky.app/profile/criticalchicken.com)
 - Discord: [discord.gg/XtGUe4vaVm](https://discord.gg/XtGUe4vaVm)
 - Email: [office@criticalchicken.com](mailto:office@criticalchicken.com)
