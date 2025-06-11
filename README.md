@@ -7,6 +7,7 @@
 
 - **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
 - **Tri theme: [github.com/CriticalChicken/Tri](https://github.com/CriticalChicken/Tri)**
+- **Gaymers&plus; Webring: [www.criticalchicken.com/webring](https://www.criticalchicken.com/webring)**
 - Bluesky: [@criticalchicken.com](https://bsky.app/profile/criticalchicken.com)
 - Discord: [discord.gg/XtGUe4vaVm](https://discord.gg/XtGUe4vaVm)
 - Email: [office@criticalchicken.com](mailto:office@criticalchicken.com)
