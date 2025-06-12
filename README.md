@@ -5,9 +5,18 @@
 > [!NOTE]
 > <b>Looking for our &ldquo;V2&rdquo; WordPress theme?</b> We&rsquo;ve hit a few snags and pivoted to developing a brand new one! Instead of V2.1, we&rsquo;re jumping all the way to version 3.0 &ndash; check out our new [Tri](https://github.com/CriticalChicken/Tri) theme repository to see what&rsquo;s brewing.
 
+### Web links
+
 - **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
-- **Tri theme: [github.com/CriticalChicken/Tri](https://github.com/CriticalChicken/Tri)**
 - **Gaymers&plus; Webring: [www.criticalchicken.com/webring](https://www.criticalchicken.com/webring)**
+
+### GitHub repositories
+
+- **Tri theme: [github.com/CriticalChicken/Tri](https://github.com/CriticalChicken/Tri)**
+- **Webring widget: [github.com/CriticalChicken/gp_iframe](https://github.com/CriticalChicken/gp_iframe)**
+
+### Social media
+
 - Bluesky: [@criticalchicken.com](https://bsky.app/profile/criticalchicken.com)
 - Discord: [discord.gg/XtGUe4vaVm](https://discord.gg/XtGUe4vaVm)
 - Email: [office@criticalchicken.com](mailto:office@criticalchicken.com)
