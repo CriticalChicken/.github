@@ -12,7 +12,6 @@
 
 ### GitHub repositories
 
-- **Tri theme:** Currently private 🤫
 - **Webring widget: [github.com/CriticalChicken/gp_iframe](https://github.com/CriticalChicken/gp_iframe)**
 
 ### Social media
