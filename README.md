@@ -3,7 +3,7 @@
 ## Video game news, features, and reviews #ForTheGaymers
 
 > [!NOTE]
-> <b>Looking for our &ldquo;V2&rdquo; WordPress theme?</b> We&rsquo;ve hit a few snags and pivoted to developing a brand new one! Instead of V2.1, we&rsquo;re jumping all the way to version 3.0 &ndash; check out our new [Tri](https://github.com/CriticalChicken/Tri) theme repository to see what&rsquo;s brewing.
+> <b>Looking for our &ldquo;V2&rdquo; WordPress theme?</b> We&rsquo;ve had a rethink, and pivoted to developing a brand new one! Instead of V2.1, we&rsquo;re jumping all the way to version 3.0. It&rsquo;ll be ready later this year.
 
 ### Web links
 
@@ -12,7 +12,6 @@
 
 ### GitHub repositories
 
-- **Tri theme: [github.com/CriticalChicken/Tri](https://github.com/CriticalChicken/Tri)**
 - **Webring widget: [github.com/CriticalChicken/gp_iframe](https://github.com/CriticalChicken/gp_iframe)**
 
 ### Social media
