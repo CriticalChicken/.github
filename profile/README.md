@@ -2,9 +2,6 @@
 
 ## Video game news, features, and reviews #ForTheGaymers
 
-> [!NOTE]
-> <b>Looking for our &ldquo;V2&rdquo; WordPress theme?</b> We&rsquo;ve had a rethink, and pivoted to developing a brand new one! Instead of V2.1, we&rsquo;re jumping all the way to version 3.0. It&rsquo;ll be ready later this year.
-
 ### Web links
 
 - **Website: [www.criticalchicken.com](https://www.criticalchicken.com)**
