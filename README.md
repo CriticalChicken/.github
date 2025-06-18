@@ -12,6 +12,7 @@
 
 ### GitHub repositories
 
+- **V2 theme: [github.com/CriticalChicken/V2](https://github.com/CriticalChicken/V2)**
 - **Webring widget: [github.com/CriticalChicken/gp_iframe](https://github.com/CriticalChicken/gp_iframe)**
 
 ### Social media
